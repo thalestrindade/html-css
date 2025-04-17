@@ -42,7 +42,7 @@ menu>ul>li>a:hover{
 }
 
 i#burguer{
-    background-color: rgb(80, 80, 80);
+    background-color: rgb(48, 47, 47);
     color:white;
     display:block;
     text-align:center;
@@ -67,6 +67,7 @@ main{
 article>h2{
     padding-bottom:20px;
 }
+
 article>p{
     text-align:justify;
     margin-bottom:20px;
